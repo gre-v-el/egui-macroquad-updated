@@ -19,7 +19,7 @@ include = [
 
 [dependencies]
 egui = "0.23.0"
-egui-miniquad = { git="https://github.com/not-fl3/egui-miniquad.git", branch="miniquad_0.4" }
+egui-miniquad = { git="https://github.com/gre-v-el/egui-miniquad-updated.git", branch="miniquad_0.4" }
 macroquad = { version="0.4.4", default-features=false }
 
 [features]
