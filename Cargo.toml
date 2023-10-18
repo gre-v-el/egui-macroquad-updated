@@ -18,8 +18,8 @@ include = [
 ]
 
 [dependencies]
-egui = "0.21.0"
-egui-miniquad = "0.14.0"
+egui = "0.23.0"
+egui-miniquad =  { git = "https://github.com/not-fl3/miniquad.git", tag = "0.4.0-alpha.6" }
 macroquad = { version="0.4.4", default-features=false }
 
 [features]
